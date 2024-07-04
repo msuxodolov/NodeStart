@@ -1,0 +1,35 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "eslint": "eslint",
+    "prettier": "prettier",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msuxodolov/NodeStart.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Matwey1991",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msuxodolov/NodeStart/issues"
+  },
+  "homepage": "https://github.com/msuxodolov/NodeStart#readme",
+  "description": "",
+  "devDependencies": {
+    "@eslint/compat": "^1.1.0",
+    "@eslint/js": "^9.6.0",
+    "eslint": "^9.6.0",
+    "eslint-plugin-react": "^7.34.3",
+    "globals": "^15.8.0",
+    "typescript-eslint": "^7.15.0"
+  },
+  "dependencies": {
+    "prettier": "^3.3.2"
+  }
+}
